@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>кто-то</h1>
+      <ul>
+        <li>люблю играть в игры</li>
+        <li>катаюсь на велосипеди</li>
+        <li>рисовать с помощи 3d ручки</li>
+      </ul>
+      <h2>делаю больше всего </h2>
+      <img src="https://funik.ru/wp-content/uploads/2020/03/ecf62a8a60045e0f1bf2-2.jpg" width="830px" height="550px"/>
+      <h3>ненавижу делать</h3>
+      <img src="https://do-slez.com/uploads/posts/2020-04/1587248507_pi.jpg" width="830px" height="300px"/>
+    </main>
+    <footer>
+      <a class="social" href="vk.com/id560380003"><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+   </footer> 
+  </body>   
+  </html>
